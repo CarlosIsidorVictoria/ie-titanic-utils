@@ -18,3 +18,17 @@ Sample project for Python Workshop (IE MBD)
     -Users use the development version
 
 4. EXCELLENT: We'll see that in next sessions
+
+## Python installation
+
+```
+pyenv
+
+ - miniforge
+    
+    - conda
+       
+       - create an environment
+          
+         - Isolated Python installation with conda and pip (everyday)
+```
