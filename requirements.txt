@@ -1,6 +1,8 @@
+. # dependencies declared in pyproject.toml
+
 # pandas == 1.4 means pandas==1.4.0
 
-pandas~=1.4.0
+# pandas~=1.4.0
 
 # this means pandas>1.4.0 and pandas<1.5
 
