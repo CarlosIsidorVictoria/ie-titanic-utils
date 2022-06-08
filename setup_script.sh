@@ -14,4 +14,4 @@ echo "Now you can run 'conda activate titanic 310' on the terminal"
 
 #conda activate titanic310 not going to work here
 
-Anaconda != Anaconda Distribution != conda
+#Anaconda != Anaconda Distribution != conda
