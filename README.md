@@ -32,3 +32,7 @@ pyenv
           
          - Isolated Python installation with conda and pip (everyday)
 ```
+## Development
+
+To develop more conveniently
+
