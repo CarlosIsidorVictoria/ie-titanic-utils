@@ -19,3 +19,4 @@ def do_extract_title():
         return {"title": title, "original_name": name}
     else:
         return {"error": "No name given"}, 400
+

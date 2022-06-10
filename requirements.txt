@@ -1,6 +1,6 @@
 . # dependencies declared in pyproject.toml
 flask
-
+heroku
 
 # pandas == 1.4 means pandas==1.4.0
 
